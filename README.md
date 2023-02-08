@@ -1,1 +1,1 @@
-# MachinCoding
+# MachineCoding
