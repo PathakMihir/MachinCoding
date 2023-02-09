@@ -6,7 +6,7 @@ from Splitwise.Expenses.split import Split
 
 class Expense:
 
-    def __init__(self, paidBy: int, amount: int, splitsList: List[Split]):
+    def __init__(self, paidBy: User, amount: int, splitsList: List[Split]):
         """
 
         :param paidBy:
