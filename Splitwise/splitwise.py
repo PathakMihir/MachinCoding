@@ -37,3 +37,11 @@ class Splitwise:
 if __name__ == "__main__":
     app = Splitwise()
     app.demo()
+
+# SOLID
+# Single Responsibility ->
+# Open and Closed Principle ->
+# Liskov Substitution ->
+# Interface Segregation ->
+# Dependency Inversion ->
+
